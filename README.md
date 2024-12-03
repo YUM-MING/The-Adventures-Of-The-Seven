@@ -30,18 +30,43 @@
 사용자가 패들로 공을 튕겨 화면 아래로 떨어지지 않게 유지하는 간단한 게임 ⚾
 <br><br>
 
-[Play the Game](https://<username>.github.io/<repository-name>/)
 
 ##### 게임 설명
-- **목표**: 공을 화면에서 떨어뜨리지 않도록 패들을 조작하세요.
-- **조작법**: 좌우 화살표 키로 패들 이동.
+- **목표** : 공을 화면에서 떨어뜨리지 않도록 패들을 조작하세요.
+- **조작법** : 좌우 화살표 키로 패들을 이동시키세요.
+  
+<br>
+
+[About the Game](https://github.com/YUM-MING/The-Adventures-Of-The-Seven/blob/main/%EA%B3%B5%ED%8A%80%EA%B8%B0%EA%B8%B0%20%EA%B2%8C%EC%9E%84.md)
+<br><br>
 
 ### 2️⃣ 뱀 게임 (Snake Game)
 뱀이 음식을 먹으며 점점 길어지는 고전적인 스네이크 게임 🎮
 <br><br>
 
+##### 게임 설명
+- **목표** : 뱀을 움직여 음식을 먹고 점수를 올리세요.
+- **조작법** : 방향키로 뱀의 이동 방향을 조절하세요.
+- **주의사항** : 뱀이 벽이나 자기 몸에 부딪히면 게임이 끝납니다.
+  
+<br>
+
+[About the Game](https://github.com/YUM-MING/The-Adventures-Of-The-Seven/blob/main/%EB%B1%80%20%EA%B2%8C%EC%9E%84.md)
+<br><br>
+
 ### 3️⃣ 미로 탈출 게임 (Maze Escape)
 사용자가 캐릭터를 움직여 출구에 도달하는 게임 🕹
+<br><br>
+
+##### 게임 설명
+- **목표** : 목표: 캐릭터를 조작하여 미로의 출구에 도달하세요.
+- **조작법** : 방향키로 캐릭터를 이동하세요.
+- **특징** : 각 게임 실행 시 미로가 랜덤으로 생성됩니다.
+- **주의사항** : 제한 시간 안에 도달하지 못하면 게임이 종료됩니다.
+  
+<br>
+
+[About the Game](https://github.com/YUM-MING/The-Adventures-Of-The-Seven/blob/main/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C%20%EA%B2%8C%EC%9E%84.md)
 <br><br>
 
 ## 게임 기능
